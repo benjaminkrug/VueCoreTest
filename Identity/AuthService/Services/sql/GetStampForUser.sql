@@ -1,0 +1,1 @@
+SELECT "SecurityStamp" From "AspNetUsers" WHERE "UserName" = @username;

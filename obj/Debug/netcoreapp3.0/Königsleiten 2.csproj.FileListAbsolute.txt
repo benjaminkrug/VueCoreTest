@@ -1,0 +1,69 @@
+D:\privateWork\repo\Königsleiten 2\VueCoreTest\VueCoreTest\bin\Debug\netcoreapp3.0\appsettings.Development.json
+D:\privateWork\repo\Königsleiten 2\VueCoreTest\VueCoreTest\bin\Debug\netcoreapp3.0\appsettings.json
+D:\privateWork\repo\Königsleiten 2\VueCoreTest\VueCoreTest\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+D:\privateWork\repo\Königsleiten 2\VueCoreTest\VueCoreTest\bin\Debug\netcoreapp3.0\Königsleiten 2.exe
+D:\privateWork\repo\Königsleiten 2\VueCoreTest\VueCoreTest\bin\Debug\netcoreapp3.0\Königsleiten 2.deps.json
+D:\privateWork\repo\Königsleiten 2\VueCoreTest\VueCoreTest\bin\Debug\netcoreapp3.0\Königsleiten 2.runtimeconfig.json
+D:\privateWork\repo\Königsleiten 2\VueCoreTest\VueCoreTest\bin\Debug\netcoreapp3.0\Königsleiten 2.runtimeconfig.dev.json
+D:\privateWork\repo\Königsleiten 2\VueCoreTest\VueCoreTest\bin\Debug\netcoreapp3.0\Königsleiten 2.dll
+D:\privateWork\repo\Königsleiten 2\VueCoreTest\VueCoreTest\bin\Debug\netcoreapp3.0\Königsleiten 2.pdb
+D:\privateWork\repo\Königsleiten 2\VueCoreTest\VueCoreTest\bin\Debug\netcoreapp3.0\Königsleiten 2.Views.dll
+D:\privateWork\repo\Königsleiten 2\VueCoreTest\VueCoreTest\bin\Debug\netcoreapp3.0\Königsleiten 2.Views.pdb
+D:\privateWork\repo\Königsleiten 2\VueCoreTest\VueCoreTest\bin\Debug\netcoreapp3.0\Dapper.dll
+D:\privateWork\repo\Königsleiten 2\VueCoreTest\VueCoreTest\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\privateWork\repo\Königsleiten 2\VueCoreTest\VueCoreTest\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\privateWork\repo\Königsleiten 2\VueCoreTest\VueCoreTest\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\privateWork\repo\Königsleiten 2\VueCoreTest\VueCoreTest\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.NodeServices.dll
+D:\privateWork\repo\Königsleiten 2\VueCoreTest\VueCoreTest\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.SpaServices.dll
+D:\privateWork\repo\Königsleiten 2\VueCoreTest\VueCoreTest\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.SpaServices.Extensions.dll
+D:\privateWork\repo\Königsleiten 2\VueCoreTest\VueCoreTest\bin\Debug\netcoreapp3.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\privateWork\repo\Königsleiten 2\VueCoreTest\VueCoreTest\bin\Debug\netcoreapp3.0\Microsoft.Bcl.HashCode.dll
+D:\privateWork\repo\Königsleiten 2\VueCoreTest\VueCoreTest\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+D:\privateWork\repo\Königsleiten 2\VueCoreTest\VueCoreTest\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\privateWork\repo\Königsleiten 2\VueCoreTest\VueCoreTest\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\privateWork\repo\Königsleiten 2\VueCoreTest\VueCoreTest\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\privateWork\repo\Königsleiten 2\VueCoreTest\VueCoreTest\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+D:\privateWork\repo\Königsleiten 2\VueCoreTest\VueCoreTest\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+D:\privateWork\repo\Königsleiten 2\VueCoreTest\VueCoreTest\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\privateWork\repo\Königsleiten 2\VueCoreTest\VueCoreTest\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\privateWork\repo\Königsleiten 2\VueCoreTest\VueCoreTest\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+D:\privateWork\repo\Königsleiten 2\VueCoreTest\VueCoreTest\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\privateWork\repo\Königsleiten 2\VueCoreTest\VueCoreTest\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Identity.Core.dll
+D:\privateWork\repo\Königsleiten 2\VueCoreTest\VueCoreTest\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Identity.Stores.dll
+D:\privateWork\repo\Königsleiten 2\VueCoreTest\VueCoreTest\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+D:\privateWork\repo\Königsleiten 2\VueCoreTest\VueCoreTest\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\privateWork\repo\Königsleiten 2\VueCoreTest\VueCoreTest\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+D:\privateWork\repo\Königsleiten 2\VueCoreTest\VueCoreTest\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+D:\privateWork\repo\Königsleiten 2\VueCoreTest\VueCoreTest\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\privateWork\repo\Königsleiten 2\VueCoreTest\VueCoreTest\bin\Debug\netcoreapp3.0\Npgsql.dll
+D:\privateWork\repo\Königsleiten 2\VueCoreTest\VueCoreTest\bin\Debug\netcoreapp3.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\privateWork\repo\Königsleiten 2\VueCoreTest\VueCoreTest\bin\Debug\netcoreapp3.0\System.Collections.Immutable.dll
+D:\privateWork\repo\Königsleiten 2\VueCoreTest\VueCoreTest\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+D:\privateWork\repo\Königsleiten 2\VueCoreTest\VueCoreTest\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+D:\privateWork\repo\Königsleiten 2\VueCoreTest\VueCoreTest\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\privateWork\repo\Königsleiten 2\VueCoreTest\VueCoreTest\bin\Debug\netcoreapp3.0\System.Threading.Channels.dll
+D:\privateWork\repo\Königsleiten 2\VueCoreTest\VueCoreTest\obj\Debug\netcoreapp3.0\Königsleiten 2.csprojAssemblyReference.cache
+D:\privateWork\repo\Königsleiten 2\VueCoreTest\VueCoreTest\obj\Debug\netcoreapp3.0\Königsleiten 2.AssemblyInfoInputs.cache
+D:\privateWork\repo\Königsleiten 2\VueCoreTest\VueCoreTest\obj\Debug\netcoreapp3.0\Königsleiten 2.AssemblyInfo.cs
+D:\privateWork\repo\Königsleiten 2\VueCoreTest\VueCoreTest\obj\Debug\netcoreapp3.0\Königsleiten 2.csproj.CoreCompileInputs.cache
+D:\privateWork\repo\Königsleiten 2\VueCoreTest\VueCoreTest\obj\Debug\netcoreapp3.0\Königsleiten 2.MvcApplicationPartsAssemblyInfo.cs
+D:\privateWork\repo\Königsleiten 2\VueCoreTest\VueCoreTest\obj\Debug\netcoreapp3.0\Königsleiten 2.MvcApplicationPartsAssemblyInfo.cache
+D:\privateWork\repo\Königsleiten 2\VueCoreTest\VueCoreTest\obj\Debug\netcoreapp3.0\Königsleiten 2.RazorAssemblyInfo.cache
+D:\privateWork\repo\Königsleiten 2\VueCoreTest\VueCoreTest\obj\Debug\netcoreapp3.0\Königsleiten 2.RazorAssemblyInfo.cs
+D:\privateWork\repo\Königsleiten 2\VueCoreTest\VueCoreTest\obj\Debug\netcoreapp3.0\Königsleiten 2.TagHelpers.input.cache
+D:\privateWork\repo\Königsleiten 2\VueCoreTest\VueCoreTest\obj\Debug\netcoreapp3.0\Königsleiten 2.TagHelpers.output.cache
+D:\privateWork\repo\Königsleiten 2\VueCoreTest\VueCoreTest\obj\Debug\netcoreapp3.0\Königsleiten 2.RazorCoreGenerate.cache
+D:\privateWork\repo\Königsleiten 2\VueCoreTest\VueCoreTest\obj\Debug\netcoreapp3.0\Razor\Identity\Identity\Pages\Account\Register.cshtml.g.cs
+D:\privateWork\repo\Königsleiten 2\VueCoreTest\VueCoreTest\obj\Debug\netcoreapp3.0\Razor\Identity\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+D:\privateWork\repo\Königsleiten 2\VueCoreTest\VueCoreTest\obj\Debug\netcoreapp3.0\Razor\Identity\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+D:\privateWork\repo\Königsleiten 2\VueCoreTest\VueCoreTest\obj\Debug\netcoreapp3.0\Razor\Identity\Identity\Pages\_ViewImports.cshtml.g.cs
+D:\privateWork\repo\Königsleiten 2\VueCoreTest\VueCoreTest\obj\Debug\netcoreapp3.0\Razor\Identity\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\privateWork\repo\Königsleiten 2\VueCoreTest\VueCoreTest\obj\Debug\netcoreapp3.0\Königsleiten 2.RazorTargetAssemblyInfo.cache
+D:\privateWork\repo\Königsleiten 2\VueCoreTest\VueCoreTest\obj\Debug\netcoreapp3.0\Königsleiten 2.RazorTargetAssemblyInfo.cs
+D:\privateWork\repo\Königsleiten 2\VueCoreTest\VueCoreTest\obj\Debug\netcoreapp3.0\Königsleiten 2.Views.pdb
+D:\privateWork\repo\Königsleiten 2\VueCoreTest\VueCoreTest\obj\Debug\netcoreapp3.0\Königsleiten 2.csproj.CopyComplete
+D:\privateWork\repo\Königsleiten 2\VueCoreTest\VueCoreTest\obj\Debug\netcoreapp3.0\staticwebassets\Königsleiten 2.StaticWebAssets.Manifest.cache
+D:\privateWork\repo\Königsleiten 2\VueCoreTest\VueCoreTest\obj\Debug\netcoreapp3.0\staticwebassets\Königsleiten 2.StaticWebAssets.xml
+D:\privateWork\repo\Königsleiten 2\VueCoreTest\VueCoreTest\obj\Debug\netcoreapp3.0\Königsleiten 2.dll
+D:\privateWork\repo\Königsleiten 2\VueCoreTest\VueCoreTest\obj\Debug\netcoreapp3.0\Königsleiten 2.pdb
+D:\privateWork\repo\Königsleiten 2\VueCoreTest\VueCoreTest\obj\Debug\netcoreapp3.0\Königsleiten 2.genruntimeconfig.cache
